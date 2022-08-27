@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 I'm Miguel Cubillos
+
+- 🔭 I’m currently working on Hexaware
+- 🌱 I’m currently learning about Big Data Engineer
+- 💬 Ask me about machine learning applied to subsidence and groundwater
+
 
 <!--
 **Miguel-Angel-Cubillos/Miguel-Angel-Cubillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
